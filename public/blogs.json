@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/images/book1.jpg",
+      "title": "The Enigma of Tomorrow",
+      "author": "Jane Doe",
+      "author_img": "https://example.com/images/author1.jpg",
+      "posted_date": "2024-09-21",
+      "reading_time": 12,
+      "hashtags": ["#mystery", "#future", "#sci-fi"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/images/book2.jpg",
+      "title": "Winds of Autumn",
+      "author": "John Smith",
+      "author_img": "https://example.com/images/author2.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 8,
+      "hashtags": ["#romance", "#nature", "#adventure"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/images/book3.jpg",
+      "title": "Echoes in the Valley",
+      "author": "Emily White",
+      "author_img": "https://example.com/images/author3.jpg",
+      "posted_date": "2024-08-17",
+      "reading_time": 15,
+      "hashtags": ["#drama", "#mystery", "#thriller"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/images/book4.jpg",
+      "title": "Tales of the Forgotten",
+      "author": "Michael Lee",
+      "author_img": "https://example.com/images/author4.jpg",
+      "posted_date": "2024-07-11",
+      "reading_time": 10,
+      "hashtags": ["#history", "#war", "#suspense"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/images/book5.jpg",
+      "title": "Whispers of the Sea",
+      "author": "Samantha Green",
+      "author_img": "https://example.com/images/author5.jpg",
+      "posted_date": "2024-06-29",
+      "reading_time": 7,
+      "hashtags": ["#adventure", "#sea", "#fantasy"]
+    }
+  ]
+  
